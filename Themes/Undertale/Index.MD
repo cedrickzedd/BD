@@ -5,4 +5,4 @@
 
 ## Main Background
 
-![undertale-bg](https://user-images.githubusercontent.com/73869003/137179163-07209609-2e60-4d36-acae-d5de2e3b5f02.jpg)
+![chara-undertale](https://user-images.githubusercontent.com/73869003/137195255-a3f7550f-10bb-4704-b957-662fd137dac2.png)
