@@ -1,8 +1,3 @@
-## Home Button
-
-![undertale-heart](https://user-images.githubusercontent.com/73869003/137179154-d987ee38-f285-45a6-b01d-f26062011ee6.png)
-
-
 ## Main Background
 
 
