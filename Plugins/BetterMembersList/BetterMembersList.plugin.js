@@ -2,7 +2,7 @@
  * @name BetterMembersList
  * @description Members List but Better
  * @author Cedrick
- * @version 1.1
+ * @version 1.2
  */
 
 module.exports = class BetterMembersList{
@@ -18,7 +18,7 @@ module.exports = class BetterMembersList{
 
     start() {
         const css = `
-.content-1jQy2l{flex-direction:row-reverse;}
+.container-2o3qEW{background:transparent;width:0px}
 .membersGroup-2eiWxl{display: none;}
 .membersWrap-2h-GB4{
     min-width: unset;
@@ -34,7 +34,8 @@ module.exports = class BetterMembersList{
     padding:1px;
 }
 .members-3WRCEx, .members-3WRCEx>div{background-color:var(--background-tetriary);}
-.chat-2ZfjoI.vis{margin-right: 60px;border-top-right-radius:20px;border-bottom-right-radius:20px;}
+.chat-2ZfjoI.vis{margin-right: 60px;border-radius:0px 10px 0px 0px}
+.chat-2ZfjoI:not(.vis){margin-right:10px;border-radius:0px 10px 0px 0px}
         `
         BdApi.injectCSS(
             "BetterMembersList",css
@@ -48,3 +49,4 @@ module.exports = class BetterMembersList{
 
 
 //Thanks to DoggyBootsy for helping me figure out how to make this plugin
+
