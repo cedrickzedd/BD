@@ -2,28 +2,28 @@
  * @name BetterMembersList
  * @description Members List but Better
  * @author Cedrick
- * @version 1
+ * @version 1.1
  */
 
 module.exports = class BetterMembersList{
     observer (changes) {    
-        if (document.querySelector('.members-1998pB')) {
-            document.querySelector('.chat-3bRxxu').classList.add('vis')
+        if (document.querySelector('.members-3WRCEx')) {
+            document.querySelector('.chat-2ZfjoI').classList.add('vis')
         } else {
-            if (document.querySelector('.chat-3bRxxu.vis')) {
-                document.querySelector('.chat-3bRxxu').classList.remove('vis')
+            if (document.querySelector('.chat-2ZfjoI.vis')) {
+                document.querySelector('.chat-2ZfjoI').classList.remove('vis')
             }
         }
     };
 
     start() {
         const css = `
-.content-yTz4x3{flex-direction:row-reverse;}
-.membersGroup-v9BXpm{display: none;}
+.content-1jQy2l{flex-direction:row-reverse;}
+.membersGroup-2eiWxl{display: none;}
 .membersWrap-2h-GB4{
     min-width: unset;
 }
-.members-1998pB{
+.members-3WRCEx{
     right: -2px;
     top:24px;
     position:fixed;
@@ -33,8 +33,8 @@ module.exports = class BetterMembersList{
     height:98%;
     padding:1px;
 }
-.members-1998pB, .members-1998pB>div{background-color:var(--background-tetriary);}
-.chat-3bRxxu.vis{margin-right: 60px;border-top-right-radius:20px;border-bottom-right-radius:20px;}
+.members-3WRCEx, .members-3WRCEx>div{background-color:var(--background-tetriary);}
+.chat-2ZfjoI.vis{margin-right: 60px;border-top-right-radius:20px;border-bottom-right-radius:20px;}
         `
         BdApi.injectCSS(
             "BetterMembersList",css
