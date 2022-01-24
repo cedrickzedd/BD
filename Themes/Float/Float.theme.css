@@ -35,5 +35,5 @@
 @import url("https://cedrickzedd.github.io/BD/Themes/Float/Float.css");
 
 :root{
-  --F-CZ-app-transparency:rgba(0, 0, 0, .6);
+  --F-CZ-app-transparency:rgba(0, 0, 0, .6)!important;
 }
