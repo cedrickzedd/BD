@@ -11,7 +11,7 @@ This theme was made using pure css and a couple BetterDiscord settings.
 
 # What you will need for this theme to work
 
-You will need to have BetterDiscord installed, Powertoys by Microsoft installed, and a Discord Client (Canary, PTB, and Stable Releases should all work).
+You will need to have [BetterDiscord](https://betterdiscord.app/) installed, [Powertoys by Microsoft](https://aka.ms/installpowertoys) installed, and a [Discord Client](https://discord.com/download) (Canary, PTB, and Stable Releases should all work).
 
 In the BetterDiscord settings, enable Transparency and enable Remove Minimum Size.
 
