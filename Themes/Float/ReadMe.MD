@@ -19,6 +19,6 @@ In the Powertoys settings, enable Always On Top and set a keybind.
 
 # Help! THemE No WOrk, It BRoCkeN
 
-Join my Support Server if you need help with installation, if you find theme bugs, if you want to contribute and help clean the code, etc.
+Join my [Support Server](https://discord.gg/BpwYF5UyHu) if you need help with installation, if you find theme bugs, if you want to contribute and help clean the code, etc.
 
 **DO NOT PING ME OR ASK FOR SUPPORT ON MY THEME IN THE BETTERDISCORD SERVER**
