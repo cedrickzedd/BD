@@ -32,7 +32,7 @@
 */
 /*< -- This File Only contains the variables to the theme -- >*/
 /*< -- Do not remove this import. It is needed for the theme to work.  -- >*/
-@import url("https://cedrickzedd.github.io/BD/Themes/Float.css");
+@import url("https://cedrickzedd.github.io/BD/Themes/Float/Float.css");
 
 :root{
   --F-CZ-app-transparency:rgba(0, 0, 0, .6);
