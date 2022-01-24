@@ -30,11 +30,11 @@
 	            						By Cedrick							
 
 */
-/*< -- This File Only contains the variables to the theme -- >*/
 /*< -- Do not remove or add anything to this theme for best results and performance. All is needed for the theme to work.  -- >*/
 
+.wordmarkWindows-2dq6rw > svg {display:none}
+.wordmarkWindows-2dq6rw::after {content:'Float Client';  font-size:14px;font-weight:600;color: white!important;}
 
-{display:none}
 .name-3qeTY-{flex:unset}
 .styleFlexible-x0_sIC.menu-1QACrS{min-width:max-content;background-color:rgba(0,0,0,0.5)!important;}
 .app-3xd6d0{background-color:rgba(0, 0, 0, 0.6)!important;border-radius:8px}
@@ -51,3 +51,6 @@
   
 
  .children-3xh0VB::after, .form-3gdLxP::before, .content-1jQy2l::before{display:none;}
+
+
+
