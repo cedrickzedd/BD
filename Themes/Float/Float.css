@@ -7,9 +7,9 @@
 .styleFlexible-x0_sIC.menu-1QACrS{min-width:max-content;background-color:rgba(0,0,0,0.5)!important;}
 [id*="message-actions-"] > div:first-child{display:none}
 
-.app-3xd6d0{background-color:var(--F-CZ-app-tranparency)!important;border-radius:8px}
+.app-3xd6d0{background-color:var(--F-CZ-app-tranparency);border-radius:8px}
 
-	*{background-color:transparent!important;}
+	*{background-color:transparent;}
 	
 	
 	
