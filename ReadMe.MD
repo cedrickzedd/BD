@@ -6,5 +6,5 @@ Also make sure to read their [FAQ](https://betterdiscord.app/FAQ) before install
 
 
 # Important
-BetterDiscord is against Discord ToS. Learn more [https://discord.com/terms](here).
+BetterDiscord is against Discord ToS. Learn more [here](https://discord.com/terms).
 Use at your own discretion.
